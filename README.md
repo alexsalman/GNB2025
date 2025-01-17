@@ -1,7 +1,7 @@
 Amyotrophic lateral sclerosis (ALS) Processing
 ==============================
 
-![Abstract]()
+![Abstract](abstract.jpg)
 
 This repository contains the implementation of our study titled **"Comparing Machine Learning and Deep Learning Approaches for ALS Diagnosis Using Blood-Derived Biomarkers and Synthetic Data"**.
 
