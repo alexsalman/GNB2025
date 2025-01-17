@@ -9,6 +9,7 @@ This repository contains the implementation of our study titled **"Comparing Mac
 
 - **Ali Salman** - Department of Medical Biotechnologies, University of Siena, Italy
 - **Matteo Leoncini** - Department of Medical Biotechnologies, University of Siena, Italy
+- **Amedeo Amedei** - Department of Clinical and Experimental Medicine, University of Florence, Florence, Italy
 - **Ernesto Iadanza** - Department of Medical Biotechnologies, University of Siena, Italy
 
 ## Abstract
