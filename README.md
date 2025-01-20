@@ -3,6 +3,8 @@ Amyotrophic lateral sclerosis (ALS) Processing
 
 This repository contains the implementation of our study titled **"Comparing Machine Learning and Deep Learning Approaches for ALS Diagnosis Using Blood-Derived Biomarkers and Synthetic Data"**.
 
+![Abstract](abstract.jpg)
+
 ## Authors
 
 - **Ali Salman** - Department of Medical Biotechnologies, University of Siena, Italy
@@ -12,7 +14,7 @@ This repository contains the implementation of our study titled **"Comparing Mac
 
 ## Abstract
 
-Amyotrophic lateral sclerosis (ALS) is a neurological disease that primarily affects motor neurons. Recently, blood-derived biomarkers (BDBs) have been proposed as tools for evaluating both early diagnosis and disease progression. In this study, we compare the performances of machine learning (ML) and deep learning (DL) algorithms in distinguishing ALS patients from healthy controls (HC), using BDBs as features. Due to limitations in dataset size, synthetic data generation techniques were applied to create additional training samples. Models were evaluated using standard performance metrics to provide insights into their classification accuracy.
+Amyotrophic lateral sclerosis (ALS) is a progressive neurodegenerative disorder primarily targeting motor neurons. Emerging research highlights the potential of blood-derived biomarkers (BDBs) for early diagnosis and tracking disease progression. This study evaluates the efficacy of machine learning and deep learning algorithms in differentiating ALS patients from healthy controls (HC) using BDBs as input features. To address the challenge of limited and imbalanced real-world data, we generated synthetic datasets with sizes 10x and 20x larger than the real dataset, ensuring balanced class distributions. The models were exclusively trained on synthetic data and evaluated on real data. Among the models, the LightGBM classifier achieved the highest performance, with an accuracy of 98.31%, an F1 score of 98.96%, and an AUROC of 99.80% when trained on the 20x synthetic dataset. These results underscore the promise of synthetic data in enhancing diagnostic capabilities for ALS through computational approaches.
 
 ## Citation
 
@@ -20,7 +22,7 @@ If you use this work, please cite it as:
 
 ```bibtex
 @misc{salman2025als_ml_dl,
-  author       = {Ali Salman and Matteo Leoncini and Ernesto Iadanza},
+  author       = {Ali Salman and Matteo Leoncini and Amedeo Amedei and Ernesto Iadanza},
   title        = {Comparing Machine Learning and Deep Learning Approaches for ALS Diagnosis Using Blood-Derived Biomarkers and Synthetic Data},
   year         = {2025},
   institution  = {Department of Medical Biotechnologies - University of Siena, Siena, Italy},
