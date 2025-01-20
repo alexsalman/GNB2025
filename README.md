@@ -28,6 +28,6 @@ If you use this work, please cite it as:
   institution  = {Department of Medical Biotechnologies - University of Siena, Siena, Italy},
   note         = {Available on GitHub: https://github.com/alexsalman/GNB2025},
   url          = {https://github.com/alexsalman/GNB2025},
-  urldate      = {2025-01-17}
+  urldate      = {2025-01-20}
 }
 
